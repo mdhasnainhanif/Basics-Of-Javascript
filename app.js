@@ -64,6 +64,9 @@ console.log("Last Name", detail.name_detail.lname);
 // console.log("Last Name", detail.name_detail.lname);
 
 // Question 1
+// Write a function that displays current date & time in your
+// browser.
+
 
 // function foo() {
 //   var date = new Date();
@@ -73,6 +76,9 @@ console.log("Last Name", detail.name_detail.lname);
 // foo();
 
 // Question 2
+// Write a function that takes first & last name and then it
+// greets the user using his full name.
+
 
 // function name() {
 //     var fname = prompt('First Name')
@@ -82,6 +88,9 @@ console.log("Last Name", detail.name_detail.lname);
 // name();
 
 // Question 3
+// Write a function that adds two numbers (input by user)
+// and returns the sum of two numbers.
+
 
 // function sum(){
 //     var a = +prompt('Number 1')
@@ -94,6 +103,11 @@ console.log("Last Name", detail.name_detail.lname);
 // console.log(result);
 
 // Question 4
+// Calculator:
+// Write a function that takes three arguments num1, num2
+// & operator & compute the desired operation. Return and
+// show the desired result in your browser.
+
 
 // function cal(val1, val2, opt) {
 //     if(opt === "+"){
@@ -120,6 +134,9 @@ console.log("Last Name", detail.name_detail.lname);
 // console.log(result);
 
 // Question 7
+// Write a function that take start and end number as inputs
+// & display counting in your browser
+
 
 // var i; 
 
