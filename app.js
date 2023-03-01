@@ -191,3 +191,79 @@ console.log(arr2);
 
 
 
+// map  // It return array
+// it takes 3 arguments (value, index, whole array)
+
+
+// var arr = [1,2,3,4,5,11,12,13,14]
+
+// var a = arr.map((value)=>{
+//     return value;
+// })
+
+// console.log(a)
+
+
+// for each  // it cannot be return array
+// it takes 3 arguments (value, index, whole array)
+
+
+
+// var arr = [1,2,3,4,5]
+
+// var a = arr.forEach((value)=>{
+//     console.log(value + 2);
+// })
+
+
+// filter // it return array
+
+// var arr = [1,2,3,4,5,11,12,13,14]
+
+// var a = arr.filter((value)=>{
+//     return value > 10;
+// })
+
+// console.log(a)
+
+
+
+
+// reduce // it return array
+// it returns a value
+
+
+// var arr = [1,2,3,4,5]
+
+// var a = arr.reduce((val1, val2)=>{
+//     return val1 + val2;
+// })
+
+// console.log(a)
+
+
+
+function foo() {
+    var hass = "Hasnain"
+    console.log(hass);
+}
+
+foo()   
+
+
+// objects
+
+
+var std = {
+    fname: "Muhammad",
+    lname: "Hasnain"
+}
+
+
+var std2 = std;
+
+
+std2.fullName = "Muhammad Hasnain";
+
+console.log(std, "==> std");
+console.log(std2, "==> std2")
